@@ -6,6 +6,6 @@ The regression analysis is is able to predict the trends of the acutal returns, 
 
 Using time series analysis we are able to forecast the volatility in Yen prices and use this for potential trading opportunities. 
 
-[Link to Time Series Analysis](https://github.com/tyoung65/Yen_Time_Series_Analysis/blob/master/time_series_analysis.ipynb)
+[Link to Code for Time Series Analysis](https://github.com/tyoung65/Yen_Time_Series_Analysis/blob/master/time_series_analysis.ipynb)
 
-[Link to Regression Analysis](https://github.com/tyoung65/Yen_Time_Series_Analysis/blob/master/regression_analysis.ipynb)
+[Link to Code for Regression Analysis](https://github.com/tyoung65/Yen_Time_Series_Analysis/blob/master/regression_analysis.ipynb)
